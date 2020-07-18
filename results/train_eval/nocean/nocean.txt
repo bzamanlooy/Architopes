@@ -1,0 +1,22 @@
+0 >>> best_params >>> {'model__learning_rate': 0.07051589252206744, 'model__input_dim': 10, 'model__height': 80, 'model__epochs': 450, 'model__batch_size': 128, 'model__dp': 0}
+
+0 >>> t_dur >>> 9.114082133769989
+
+0 >>> e_train_mape >>> 16.559898978845858
+
+0 >>> e_train_mae >>> 0.35166444092097715
+
+0 >>> e_train_mse >>> 0.2961719640335116
+
+0 >>> e_train_size >>> 1864
+
+0 >>> e_test_mape >>> 17.926428749328853
+
+0 >>> e_test_mae >>> 0.393145132325928
+
+0 >>> e_test_mse >>> 0.33943761176080345
+
+0 >>> e_test_me >>> -0.038480174898427075
+
+0 >>> e_test_size >>> 799
+
